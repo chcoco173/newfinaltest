@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Mypage</title>
 </head>
 <body>
-user.jsp
+마이페이지 화면입니다.
 </body>
 </html>

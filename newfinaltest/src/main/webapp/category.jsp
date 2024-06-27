@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-카테고리 jsp 페이지 입니당.
+카테고리 jsp 페이지 입니당. 채은 수정완료
 </body>
 </html>
